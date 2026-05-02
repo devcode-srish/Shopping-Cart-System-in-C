@@ -172,7 +172,7 @@ int main() {
     // Display inventory as soon as program starts
     printf("\n===============================================\n");
     printf("         WELCOME TO SHOPPING STORE              \n");
-    printf("===============================================\n");1
+    printf("===============================================\n");
     
     printf("\nCurrent Available Inventory:\n");
     displayItems(inventory, 0);
